@@ -46,6 +46,8 @@
             "selectionInactiveBackground": "selectionInactiveBackground",
             "inactiveBackground": "bgDark",
             "disabledBackground": "bgDark",
+            "disabledBorderColor": "bgDark",
+            "disabledForeground": "comment",
             "borderColor": "bgDark",
             "separatorColor": "separatorColor"
         },
@@ -149,12 +151,12 @@
             "inactiveUnderlineColor": "blue"
         },
         "FileColor": {
-            "Blue": "#7AA2F750",
-            "Green": "#9ece6e50",
-            "Orange": "#FF9E6450",
-            "Yellow": "#e0af68ff",
-            "Rose": "#F7768E50",
-            "Violet": "#bb9af750"
+            "Blue": "#7AA2F71a",
+            "Green": "#9ece6e05",
+            "Orange": "#FF9E6405",
+            "Yellow": "#e0af6805",
+            "Rose": "#F7768E05",
+            "Violet": "#bb9af705"
         },
         "Link": {
             "activeForeground": "blue",
