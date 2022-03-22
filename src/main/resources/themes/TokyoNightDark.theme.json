@@ -1,8 +1,8 @@
 {
-    "name": "TokyoNight",
+    "name": "TokyoNight Dark",
     "dark": true,
     "author": "Alexander Adhyatma <alexadhyatma@mailbox.org>",
-    "editorScheme": "/themes/TokyoNight.xml",
+    "editorScheme": "/themes/TokyoNightDark.xml",
     "colors": {
         "bgDark": "#1f2335",
         "bg": "#24283b",
@@ -40,6 +40,8 @@
         "*": {
             "arc": "7",
             "background": "bgDark",
+            "foreground":  "fgDark",
+            "caretForeground": "fgDark",
             "selectionForeground": "fg",
             "selectionInactiveForeground": "fg",
             "selectionBackground": "hoverBackground",

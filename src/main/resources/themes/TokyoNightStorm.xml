@@ -1,4 +1,4 @@
-<scheme name="TokyoNight" version="142" parent_scheme="Darcula">
+<scheme name="TokyoNightStorm" version="142" parent_scheme="Darcula">
     <colors>
         <option name="ADDED_LINES_COLOR" value="73daca" />
         <option name="ANNOTATIONS_COLOR" value="c0caf5" />
@@ -6,10 +6,10 @@
         <option name="CARET_ROW_COLOR" value="292e42" />
         <option name="CONSOLE_BACKGROUND_KEY" value="24283b" />
         <option name="DELETED_LINES_COLOR" value="f7768e" />
-        <option name="DIAGRAM_ANNOTATION_EDGE" value="d08770" />
+        <option name="DIAGRAM_ANNOTATION_EDGE" value="e0af68" />
         <option name="DIAGRAM_DEFAULT_EDGE" value="c0caf5" />
         <option name="DIAGRAM_GENERALIZATION_EDGE" value="7aa2f7" />
-        <option name="DIAGRAM_INNER_EDGE" value="8fbcbb" />
+        <option name="DIAGRAM_INNER_EDGE" value="7aa2f7" />
         <option name="DIAGRAM_NODE_BACKGROUND" value="3b4261" />
         <option name="DIAGRAM_NODE_HEADER" value="3b4261" />
         <option name="DIAGRAM_NOTE_BACKGROUND" value="414868" />
@@ -22,16 +22,16 @@
         <option name="FILESTATUS_DELETED" value="f7768e" />
         <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="3b4261" />
         <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="3b4261" />
-        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d08770" />
-        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d08770" />
-        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d08770" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="e0af68" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="e0af68" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="e0af68" />
         <option name="FILESTATUS_MERGED" value="73daca" />
         <option name="FILESTATUS_MODIFIED" value="ebcb8b" />
         <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="7aa2f7" />
         <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="7aa2f7" />
         <option name="FILESTATUS_UNKNOWN" value="f7768e" />
         <option name="FILESTATUS_addedOutside" value="73daca" />
-        <option name="FILESTATUS_changelistConflict" value="d08770" />
+        <option name="FILESTATUS_changelistConflict" value="e0af68" />
         <option name="FILESTATUS_modifiedOutside" value="ebcb8b" />
         <option name="GUTTER_BACKGROUND" value="24283b" />
         <option name="HTML_TAG_TREE_LEVEL0" value="" />
@@ -1039,13 +1039,24 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PY.SELF_PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="d599e2" />
-        <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_TYPE" value="3" />
-      </value>
-    </option>
+      <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
+      <option name="PY.PREDEFINED_DEFINITION">
+          <value>
+              <option name="FOREGROUND" value="72aaf7" />
+          </value>
+      </option>
+      <option name="PY.PREDEFINED_USAGE">
+          <value>
+              <option name="FOREGROUND" value="72aaf7" />
+          </value>
+      </option>
+      <option name="PY.SELF_PARAMETER">
+          <value>
+              <option name="FOREGROUND" value="d599e2" />
+              <option name="FONT_TYPE" value="2" />
+              <option name="EFFECT_TYPE" value="3" />
+          </value>
+      </option>
     <option name="REGEXP_MATCHED_GROUPS">
       <value>
         <option name="FOREGROUND" value="9aa5ce" />

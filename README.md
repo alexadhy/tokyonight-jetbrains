@@ -2,6 +2,11 @@
 
 A dark and light Jetbrains theme ported from the Visual Studio Code [TokyoNight](https://github.com/enkia/tokyo-night-vscode-theme) theme.
 
+There are 2 variants here:
+
+- TokyoNight Dark
+- TokyoNight Storm
+
 <p align="center">
     <img src="static/kotlin.png"/>
 </p>

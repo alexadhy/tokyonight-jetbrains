@@ -10,6 +10,7 @@
   </description>
   <depends>com.intellij.modules.platform</depends>
   <extensions defaultExtensionNs="com.intellij">
-    <themeProvider id="com.alex.tokyonight" path="/themes/TokyoNight.theme.json"/>
+    <themeProvider id="com.alex.tokyonight-storm" path="/themes/TokyoNightStorm.theme.json"/>
+    <themeProvider id="com.alex.tokyonight-dark" path="/themes/TokyoNightDark.theme.json"/>
   </extensions>
 </idea-plugin>
