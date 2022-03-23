@@ -4,8 +4,8 @@
     "author": "Alexander Adhyatma <alexadhyatma@mailbox.org>",
     "editorScheme": "/themes/TokyoNightDark.xml",
     "colors": {
-        "bgDark": "#1f2335",
-        "bg": "#24283b",
+        "bgHi": "#1f2335",
+        "bg": "#1a1b26",
         "terminalBlack": "#414868",
         "fg": "#c0caf5",
         "fgDark": "#a9b1d6",
@@ -39,22 +39,22 @@
     "ui": {
         "*": {
             "arc": "7",
-            "background": "bgDark",
-            "foreground":  "fgDark",
+            "background": "bg",
+            "foreground": "fgDark",
             "caretForeground": "fgDark",
             "selectionForeground": "fg",
             "selectionInactiveForeground": "fg",
             "selectionBackground": "hoverBackground",
             "selectionInactiveBackground": "selectionInactiveBackground",
-            "inactiveBackground": "bgDark",
-            "disabledBackground": "bgDark",
-            "disabledBorderColor": "bgDark",
-            "disabledForeground": "comment",
-            "borderColor": "bgDark",
+            "inactiveBackground": "bgHi",
+            "disabledBackground": "bgHi",
+            "disabledBorderColor": "bgHi",
+            "disabledForeground": "dark5",
+            "borderColor": "bgHi",
             "separatorColor": "separatorColor"
         },
         "Borders": {
-            "color": "bgDark",
+            "color": "bgHi",
             "ContrastBorderColor": "hoverBackground"
         },
         "ActionButton": {
@@ -90,7 +90,7 @@
             "startBackground": "hoverBackground",
             "endBackground": "hoverBackground",
             "focusedBorderColor": "blue0",
-            "disabledBorderColor": "bgDark",
+            "disabledBorderColor": "bgHi",
             "default": {
                 "foreground": "bg",
                 "startBackground": "blue",
@@ -102,7 +102,7 @@
             }
         },
         "Counter": {
-            "foreground": "bgDark",
+            "foreground": "bgHi",
             "background": "blue0"
         },
         "ComboBox": {
@@ -122,7 +122,7 @@
         },
         "Component": {
             "focusColor": "hoverBackground",
-            "borderColor": "bgDark",
+            "borderColor": "bgHi",
             "focusedBorderColor": "blue0",
             "disabledBorderColor": "blue0",
             "errorFocusColor": "red1",
@@ -141,11 +141,11 @@
             "underlineColor": "blue"
         },
         "Editor": {
-            "background": "bgDark",
+            "background": "bgHi",
             "shortcutForeground": "blue"
         },
         "EditorTabs": {
-            "background": "bgDark",
+            "background": "bgHi",
             "underlinedTabBackground": "hoverBackground",
             "underlineColor": "blue",
             "underlineHeight": 1,
@@ -169,17 +169,17 @@
         "Notification": {
             "background": "hoverBackground",
             "errorBorderColor": "red1",
-            "errorBackground": "bgDark",
+            "errorBackground": "bgHi",
             "errorForeground": "fg",
             "ToolWindow": {
                 "warningForeground": "fg",
-                "warningBackground": "bgDark",
+                "warningBackground": "bgHi",
                 "warningBorderColor": "orange",
                 "errorForeground": "fg",
                 "errorBorderColor": "red1",
-                "errorBackground": "bgDark",
+                "errorBackground": "bgHi",
                 "informativeForeground": "fg",
-                "informativeBackground": "bgDark",
+                "informativeBackground": "bgHi",
                 "informativeBorderColor": "magenta"
             }
         },
@@ -198,10 +198,10 @@
             "Button": {
                 "installBorderColor": "magenta",
                 "installForeground": "magenta",
-                "installBackground": "bgDark",
-                "installFillForeground": "bgDark",
+                "installBackground": "bgHi",
+                "installFillForeground": "bgHi",
                 "installFillBackground": "magenta",
-                "installFocusedBackground": "bgDark",
+                "installFocusedBackground": "bgHi",
                 "updateBorderColor": "blue",
                 "updateForeground": "fg",
                 "updateBackground": "blue"
@@ -268,7 +268,7 @@
             "focusColor": "hoverBackground",
             "hoverColor": "hoverBackground",
             "underlineColor": "blue",
-            "contentAreaColor": "bgDark"
+            "contentAreaColor": "bgHi"
         },
         "Table": {
             "gridColor": "hoverBackground",
@@ -281,7 +281,7 @@
             "background": "hoverBackground"
         },
         "TextArea": {
-            "background": "bgDark"
+            "background": "bgHi"
         },
         "ToggleButton": {
             "onBackground": "green",
@@ -291,7 +291,7 @@
             "buttonColor": "fg"
         },
         "ToolBar": {
-            "background": "bgDark",
+            "background": "bg",
             "borderHandleColor": "magenta"
         },
         "ToolWindow": {
@@ -299,8 +299,8 @@
                 "hoverBackground": "hoverBackground"
             },
             "Header": {
-                "background": "bgDark",
-                "inactiveBackground": "bgDark",
+                "background": "bg",
+                "inactiveBackground": "bgHi",
                 "borderColor": "hoverBackground"
             },
             "HeaderTab": {
@@ -313,16 +313,16 @@
             }
         },
         "Tree": {
-            "background": "bgDark",
+            "background": "bgHi",
             "modifiedItemForeground": "blue",
             "hoverBackground": "hoverBackground",
             "selectionBackground": "blue0",
             "selectionInactiveBackground": "selectionInactiveBackground"
         },
         "ValidationTooltip": {
-            "errorBackground": "bgDark",
+            "errorBackground": "bgHi",
             "errorBorderColor": "red1",
-            "warningBackground": "bgDark",
+            "warningBackground": "bgHi",
             "warningBorderColor": "orange"
         },
         "VersionControl": {
@@ -371,7 +371,7 @@
             "Actions.Purple": "#9D7CD8",
             "Actions.Red": "#F7768E",
             "Actions.Yellow": "#E0AF68",
-            "Actions.Gray": "comment",
+            "Actions.Gray": "#737aa2",
             "Actions.White": "#C0CAF5",
             "Actions.Black": "#24283B",
             "Actions.Grey": "#414868",
@@ -387,7 +387,7 @@
             "Objects.RedStatus": "#F7768E",
             "Objects.Yellow": "#E0AF68",
             "Objects.YellowDark": "#E0AF68",
-            "Objects.BlackText": "#565F89",
+            "Objects.BlackText": "#737aa2",
             "Tree.iconColor": "#7aa2f7"
         }
     }
