@@ -570,13 +570,23 @@
             </value>
         </option>
         <option name="GO_EXPORTED_FUNCTION_CALL">
-            <value/>
+            <value>
+                <option name="FOREGROUND" value="7aa2f7"/>
+            </value>
         </option>
         <option name="GO_LOCAL_FUNCTION_CALL">
-            <value/>
+            <value>
+                <option name="FOREGROUND" value="7aa2f7"/>
+            </value>
         </option>
         <option name="GO_PACKAGE">
             <value/>
+        </option>
+        <option name="GO_SHADOWING_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE"/>
+        <option name="GO_TYPE_REFERENCE">
+            <value>
+                <option name="FOREGROUND" value="2ac3de"/>
+            </value>
         </option>
         <option name="HTML_TAG_NAME">
             <value>
