@@ -4,11 +4,18 @@ A dark and light Jetbrains theme ported from the Visual Studio Code [TokyoNight]
 
 There are 2 variants here:
 
-- TokyoNight Dark
 - TokyoNight Storm
 
 <p align="center">
-    <img src="static/kotlin.png"/>
+    <img src="static/golang_tokyonight_storm.png"/>
+    <img src="static/python_tokyonight_storm.png"/>
+</p>
+
+- TokyoNight Dark
+
+<p align="center">
+    <img src="static/golang_tokyonight_dark.png"/>
+    <img src="static/python_tokyonight_dark.png"/>
 </p>
 
 ## Installation
