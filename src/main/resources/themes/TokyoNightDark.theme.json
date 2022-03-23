@@ -4,7 +4,7 @@
     "author": "Alexander Adhyatma <alexadhyatma@mailbox.org>",
     "editorScheme": "/themes/TokyoNightDark.xml",
     "colors": {
-        "bgHi": "#1f2335",
+        "bgHi": "#161720",
         "bg": "#1a1b26",
         "terminalBlack": "#414868",
         "fg": "#c0caf5",
@@ -32,7 +32,7 @@
         "teal": "#1abc9c",
         "red": "#f7768e",
         "red1": "#db4b4b",
-        "hoverBackground": "#292e42",
+        "hoverBackground": "#232433",
         "selectionInactiveBackground": "#414868",
         "separatorColor": "#545c7e"
     },
@@ -313,7 +313,7 @@
             }
         },
         "Tree": {
-            "background": "bgHi",
+            "background": "bg",
             "modifiedItemForeground": "blue",
             "hoverBackground": "hoverBackground",
             "selectionBackground": "blue0",

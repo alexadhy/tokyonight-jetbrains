@@ -3,26 +3,26 @@
         <option name="ADDED_LINES_COLOR" value="73daca"/>
         <option name="ANNOTATIONS_COLOR" value="c0caf5"/>
         <option name="CARET_COLOR" value="c0caf5"/>
-        <option name="CARET_ROW_COLOR" value="24283b"/>
-        <option name="CONSOLE_BACKGROUND_KEY" value="1f2035"/>
+        <option name="CARET_ROW_COLOR" value="232433"/>
+        <option name="CONSOLE_BACKGROUND_KEY" value="161720"/>
         <option name="DELETED_LINES_COLOR" value="f7768e"/>
         <option name="DIAGRAM_ANNOTATION_EDGE" value="e0af68"/>
         <option name="DIAGRAM_DEFAULT_EDGE" value="c0caf5"/>
         <option name="DIAGRAM_GENERALIZATION_EDGE" value="7aa2f7"/>
         <option name="DIAGRAM_INNER_EDGE" value="7aa2f7"/>
-        <option name="DIAGRAM_NODE_BACKGROUND" value="292b42"/>
-        <option name="DIAGRAM_NODE_HEADER" value="292b42"/>
+        <option name="DIAGRAM_NODE_BACKGROUND" value="2c2e40"/>
+        <option name="DIAGRAM_NODE_HEADER" value="2c2e40"/>
         <option name="DIAGRAM_NOTE_BACKGROUND" value="414868"/>
         <option name="DIAGRAM_NOTE_BORDER" value="414868"/>
         <option name="DIAGRAM_REALIZATION_EDGE" value="73daca"/>
-        <option name="DIFF_SEPARATORS_BACKGROUND" value="292b42"/>
-        <option name="DOCUMENTATION_COLOR" value="24283b"/>
-        <option name="DOCUMENTATION_POPUP_COLOR" value="24283b"/>
+        <option name="DIFF_SEPARATORS_BACKGROUND" value="2c2e40"/>
+        <option name="DOCUMENTATION_COLOR" value="232433"/>
+        <option name="DOCUMENTATION_POPUP_COLOR" value="232433"/>
         <option name="ERROR_HINT" value="414868"/>
         <option name="FILESTATUS_ADDED" value="73daca"/>
         <option name="FILESTATUS_DELETED" value="f7768e"/>
-        <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="292b42"/>
-        <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="292b42"/>
+        <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="2c2e40"/>
+        <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="2c2e40"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="e0af68"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="e0af68"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="e0af68"/>
@@ -34,37 +34,38 @@
         <option name="FILESTATUS_addedOutside" value="73daca"/>
         <option name="FILESTATUS_changelistConflict" value="e0af68"/>
         <option name="FILESTATUS_modifiedOutside" value="ebcb8b"/>
-        <option name="GUTTER_BACKGROUND" value="1f2035"/>
+        <option name="GUTTER_BACKGROUND" value="1a1b26"/>
         <option name="HTML_TAG_TREE_LEVEL0" value=""/>
         <option name="HTML_TAG_TREE_LEVEL1" value=""/>
         <option name="HTML_TAG_TREE_LEVEL2" value=""/>
         <option name="HTML_TAG_TREE_LEVEL3" value=""/>
         <option name="HTML_TAG_TREE_LEVEL4" value=""/>
         <option name="HTML_TAG_TREE_LEVEL5" value=""/>
-        <option name="INDENT_GUIDE" value="292b42"/>
+        <option name="INDENT_GUIDE" value="2c2e40"/>
         <option name="INFORMATION_HINT" value="414868"/>
-        <option name="LINE_NUMBERS_COLOR" value="292b42"/>
+        <option name="LINE_NUMBERS_COLOR" value="2c2e40"/>
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="c0caf5"/>
+        <option name="LOOKUP_COLOR" value="1f2335"/>
         <option name="METHOD_SEPARATORS_COLOR" value="c0caf5"/>
         <option name="MODIFIED_LINES_COLOR" value="ebcb8b"/>
-        <option name="NOTIFICATION_BACKGROUND" value="292b42"/>
+        <option name="NOTIFICATION_BACKGROUND" value="2c2e40"/>
         <option name="QUESTION_HINT" value="414868"/>
         <option name="RECURSIVE_CALL_ATTRIBUTES" value=""/>
-        <option name="RIGHT_MARGIN_COLOR" value="292b42"/>
+        <option name="RIGHT_MARGIN_COLOR" value="2c2e40"/>
         <option name="SELECTED_INDENT_GUIDE" value="565f89"/>
         <option name="SELECTED_TEARLINE_COLOR" value="414868"/>
         <option name="SELECTION_BACKGROUND" value="414868"/>
-        <option name="SEPARATOR_ABOVE_COLOR" value="292b42"/>
-        <option name="SEPARATOR_BELOW_COLOR" value="292b42"/>
-        <option name="SOFT_WRAP_SIGN_COLOR" value="292b42"/>
-        <option name="TEARLINE_COLOR" value="292b42"/>
-        <option name="VCS_ANNOTATIONS_COLOR_1" value="24283b"/>
-        <option name="VCS_ANNOTATIONS_COLOR_2" value="24283b"/>
-        <option name="VCS_ANNOTATIONS_COLOR_3" value="24283b"/>
-        <option name="VCS_ANNOTATIONS_COLOR_4" value="24283b"/>
-        <option name="VCS_ANNOTATIONS_COLOR_5" value="24283b"/>
-        <option name="VISUAL_INDENT_GUIDE" value="292b42"/>
-        <option name="WHITESPACES" value="292b42"/>
+        <option name="SEPARATOR_ABOVE_COLOR" value="2c2e40"/>
+        <option name="SEPARATOR_BELOW_COLOR" value="2c2e40"/>
+        <option name="SOFT_WRAP_SIGN_COLOR" value="2c2e40"/>
+        <option name="TEARLINE_COLOR" value="2c2e40"/>
+        <option name="VCS_ANNOTATIONS_COLOR_1" value="232433"/>
+        <option name="VCS_ANNOTATIONS_COLOR_2" value="232433"/>
+        <option name="VCS_ANNOTATIONS_COLOR_3" value="232433"/>
+        <option name="VCS_ANNOTATIONS_COLOR_4" value="232433"/>
+        <option name="VCS_ANNOTATIONS_COLOR_5" value="232433"/>
+        <option name="VISUAL_INDENT_GUIDE" value="2c2e40"/>
+        <option name="WHITESPACES" value="2c2e40"/>
         <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="ebcb8b"/>
     </colors>
     <attributes>
@@ -461,7 +462,7 @@
                 <option name="FOREGROUND" value="ba3c8c"/>
             </value>
         </option>
-        <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
+        <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT"/>
         <option name="DEFAULT_VALID_STRING_ESCAPE">
             <value>
                 <option name="FOREGROUND" value="61bdf2"/>
@@ -1114,7 +1115,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="a9b1d6"/>
-                <option name="BACKGROUND" value="1f2035"/>
+                <option name="BACKGROUND" value="1a1b26"/>
             </value>
         </option>
         <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
@@ -1199,7 +1200,7 @@
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
-        <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
+        <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE"/>
         <option name="XML_TAG_NAME">
             <value>
                 <option name="FOREGROUND" value="7aa2f7"/>

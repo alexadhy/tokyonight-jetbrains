@@ -116,8 +116,8 @@
             "nonEditableBackground": "hoverBackground"
         },
         "CompletionPopup": {
-            "selectionBackground": "hoverBackground",
-            "selectionInactiveBackground": "selectionInactiveBackground",
+            "selectionBackground": "fgGutter",
+            "selectionInactiveBackground": "dark3",
             "matchForeground": "green1"
         },
         "Component": {
@@ -141,7 +141,7 @@
             "underlineColor": "blue"
         },
         "Editor": {
-            "background": "bgDark",
+            "background": "bg",
             "shortcutForeground": "blue"
         },
         "EditorTabs": {
@@ -313,7 +313,7 @@
             }
         },
         "Tree": {
-            "background": "bgDark",
+            "background": "bg",
             "modifiedItemForeground": "blue",
             "hoverBackground": "hoverBackground",
             "selectionBackground": "blue0",

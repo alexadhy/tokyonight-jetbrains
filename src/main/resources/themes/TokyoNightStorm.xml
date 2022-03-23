@@ -17,7 +17,6 @@
         <option name="DIAGRAM_REALIZATION_EDGE" value="73daca"/>
         <option name="DIFF_SEPARATORS_BACKGROUND" value="3b4261"/>
         <option name="DOCUMENTATION_COLOR" value="292e42"/>
-        <option name="DOCUMENTATION_POPUP_COLOR" value="292e42"/>
         <option name="ERROR_HINT" value="414868"/>
         <option name="FILESTATUS_ADDED" value="73daca"/>
         <option name="FILESTATUS_DELETED" value="f7768e"/>
@@ -45,6 +44,7 @@
         <option name="INFORMATION_HINT" value="414868"/>
         <option name="LINE_NUMBERS_COLOR" value="3b4261"/>
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="c0caf5"/>
+        <option name="LOOKUP_COLOR" value="292e42"/>
         <option name="METHOD_SEPARATORS_COLOR" value="c0caf5"/>
         <option name="MODIFIED_LINES_COLOR" value="ebcb8b"/>
         <option name="NOTIFICATION_BACKGROUND" value="3b4261"/>
@@ -461,7 +461,7 @@
                 <option name="FOREGROUND" value="ba3c8c"/>
             </value>
         </option>
-        <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
+        <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT"/>
         <option name="DEFAULT_VALID_STRING_ESCAPE">
             <value>
                 <option name="FOREGROUND" value="61bdf2"/>
@@ -1199,7 +1199,7 @@
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
-        <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
+        <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE"/>
         <option name="XML_TAG_NAME">
             <value>
                 <option name="FOREGROUND" value="7aa2f7"/>
