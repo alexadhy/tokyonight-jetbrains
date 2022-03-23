@@ -691,6 +691,7 @@
                 <option name="FOREGROUND" value="c792ea"/>
             </value>
         </option>
+        <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE"/>
         <option name="JS.INSTANCE_MEMBER_VARIABLE">
             <value>
                 <option name="FOREGROUND" value="73daca"/>
@@ -965,7 +966,7 @@
         </option>
         <option name="PHP.MODIFIER">
             <value>
-                <option name="FOREGROUND" value="2ac3de"/>
+                <option name="FOREGROUND" value="9d7cd8"/>
             </value>
         </option>
         <option name="PHP.NULL">
@@ -1010,7 +1011,7 @@
         </option>
         <option name="PHP_IDENTIFIER">
             <value>
-                <option name="FOREGROUND" value="bb9af7"/>
+                <option name="FOREGROUND" value="c0cefc"/>
             </value>
         </option>
         <option name="PHP_NAMED_ARGUMENT">
@@ -1018,6 +1019,7 @@
                 <option name="FOREGROUND" value="61bdf2"/>
             </value>
         </option>
+        <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER"/>
         <option name="PHP_PRIMITIVE_TYPE_HINT">
             <value>
                 <option name="FOREGROUND" value="bb9af7"/>
@@ -1029,6 +1031,9 @@
             </value>
         </option>
         <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE"/>
+        <option name="PROTO_IDENTIFIER">
+            <value/>
+        </option>
         <option name="PROTO_IDENTIFIER">
             <value/>
         </option>
