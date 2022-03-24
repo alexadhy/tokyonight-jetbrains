@@ -18,6 +18,13 @@ There are 2 variants here:
     <img src="static/python_tokyonight_dark.png"/>
 </p>
 
+## Differences between this one and the theme by Grafikart
+
+- Main difference is just this theme includes the UI theme too, without relying on the user to install Material UI theme. 
+- Tokyo-Night Dark support, planned support for Tokyo Night Day
+- Otherwise everything is (about) the same. 
+- Go checkout his theme as well if you think that this one doesn't fit you: [https://github.com/Grafikart/tokyo-night-jetbrains-theme](https://github.com/Grafikart/tokyo-night-jetbrains-theme)
+
 ## Installation
 
 *On Your Jetbrains IDE*:
