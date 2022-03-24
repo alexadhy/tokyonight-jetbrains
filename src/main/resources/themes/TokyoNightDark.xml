@@ -85,19 +85,30 @@
             </value>
         </option>
         <option name="BOOKMARKS_ATTRIBUTES">
-            <value/>
+            <value>
+                <option name="FOREGROUND" value="89ddff"/>
+            </value>
         </option>
         <option name="BREADCRUMBS_CURRENT">
-            <value/>
+            <value>
+                <option name="FOREGROUND" value="89ddff"/>
+                <option name="FONT_TYPE" value="2"/>
+            </value>
         </option>
         <option name="BREADCRUMBS_DEFAULT">
-            <value/>
+            <value>
+                <option name="FOREGROUND" value="737aa2"/>
+            </value>
         </option>
         <option name="BREADCRUMBS_HOVERED">
-            <value/>
+            <value>
+                <option name="FOREGROUND" value="7aa2f7"/>
+            </value>
         </option>
         <option name="BREADCRUMBS_INACTIVE">
-            <value/>
+            <value>
+                <option name="FOREGROUND" value="565f89"/>
+            </value>
         </option>
         <option name="BREAKPOINT_ATTRIBUTES">
             <value>
@@ -760,6 +771,7 @@
                 <option name="FOREGROUND" value="7aa2f7"/>
             </value>
         </option>
+        <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD"/>
         <option name="KOTLIN_BUILTIN_ANNOTATION">
             <value>
                 <option name="FOREGROUND" value="9d7cd8"/>
@@ -843,8 +855,8 @@
         </option>
         <option name="MARKDOWN_AUTO_LINK">
             <value>
-                <option name="FOREGROUND" value="73daca"/>
-                <option name="EFFECT_COLOR" value="73daca"/>
+                <option name="FOREGROUND" value="7297e5"/>
+                <option name="EFFECT_COLOR" value="7aa2f7"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
@@ -860,12 +872,14 @@
         </option>
         <option name="MARKDOWN_HEADER_LEVEL_1">
             <value>
-                <option name="FOREGROUND" value="89ddff"/>
+                <option name="FOREGROUND" value="7dcfff"/>
+                <option name="EFFECT_COLOR" value="172030"/>
+                <option name="EFFECT_TYPE" value="4"/>
             </value>
         </option>
         <option name="MARKDOWN_HEADER_LEVEL_2">
             <value>
-                <option name="FOREGROUND" value="61bdf2"/>
+                <option name="FOREGROUND" value="bb9af7"/>
             </value>
         </option>
         <option name="MARKDOWN_HEADER_LEVEL_3">
@@ -875,12 +889,12 @@
         </option>
         <option name="MARKDOWN_HEADER_LEVEL_4">
             <value>
-                <option name="FOREGROUND" value="7aa2f7"/>
+                <option name="FOREGROUND" value="e0af68"/>
             </value>
         </option>
         <option name="MARKDOWN_HEADER_LEVEL_5">
             <value>
-                <option name="FOREGROUND" value="7aa2f7"/>
+                <option name="FOREGROUND" value="7dcfff"/>
             </value>
         </option>
         <option name="MARKDOWN_HEADER_LEVEL_6">
@@ -901,6 +915,12 @@
         <option name="MARKDOWN_LINK_DESTINATION">
             <value>
                 <option name="FOREGROUND" value="73daca"/>
+            </value>
+        </option>
+        <option name="MARKDOWN_LINK_LABEL">
+            <value>
+                <option name="FOREGROUND" value="f7768e"/>
+                <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
         <option name="MARKDOWN_LINK_TITLE">
@@ -1041,6 +1061,8 @@
             </value>
         </option>
         <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE"/>
+        <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE"/>
+        <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD"/>
         <option name="PROTO_IDENTIFIER">
             <value/>
         </option>
@@ -1193,6 +1215,8 @@
                 <option name="FOREGROUND" value="9aa5ce"/>
             </value>
         </option>
+        <option name="VELOCITY_DIRECTIVE" baseAttributes="JSP_DIRECTIVE_NAME"/>
+        <option name="VELOCITY_SCRIPTING_BACKGROUND" baseAttributes="JSP_SCRIPTING_BACKGROUND"/>
         <option name="WARNING_ATTRIBUTES">
             <value>
                 <option name="EFFECT_COLOR" value="e0af68"/>
@@ -1221,5 +1245,8 @@
                 <option name="FOREGROUND" value="7aa2f7"/>
             </value>
         </option>
+        <option name="XPATH.FUNCTION" baseAttributes="DEFAULT_FUNCTION_CALL"/>
+        <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD"/>
+        <option name="XPATH.XPATH_NAME" baseAttributes="TEXT"/>
     </attributes>
 </scheme>

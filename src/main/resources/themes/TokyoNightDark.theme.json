@@ -38,10 +38,13 @@
     },
     "ui": {
         "*": {
+            "acceleratorForeground": "blue",
+            "acceleratorSelectionForeground": "blue",
             "arc": "7",
             "background": "bg",
             "foreground": "fgDark",
             "caretForeground": "fgDark",
+            "infoForeground": "fgDark",
             "selectionForeground": "fg",
             "selectionInactiveForeground": "fg",
             "selectionBackground": "hoverBackground",
@@ -116,6 +119,7 @@
             "nonEditableBackground": "hoverBackground"
         },
         "CompletionPopup": {
+            "foreground": "fgDark",
             "selectionBackground": "hoverBackground",
             "selectionInactiveBackground": "selectionInactiveBackground",
             "matchForeground": "green1"
@@ -226,7 +230,13 @@
             "Header": {
                 "activeBackground": "hoverBackground",
                 "inactiveBackground": "hoverBackground"
+            },
+            "Advertiser": {
+                "foreground": "dark5"
             }
+        },
+        "PopupMenu": {
+            "background": "hoverBackground"
         },
         "RadioButtonMenuItem": {
             "selectionBackground": "hoverBackground"
@@ -325,6 +335,7 @@
             "warningBackground": "bgHi",
             "warningBorderColor": "orange"
         },
+        "ToolTip.shortcutForeground": "blue",
         "VersionControl": {
             "FileHistory": {
                 "Commit": {

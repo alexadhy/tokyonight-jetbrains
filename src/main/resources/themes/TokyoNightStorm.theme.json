@@ -38,10 +38,13 @@
     },
     "ui": {
         "*": {
+            "acceleratorForeground": "blue",
+            "acceleratorSelectionForeground": "blue",
             "arc": "7",
             "background": "bg",
             "foreground": "fg",
             "caretForeground": "fg",
+            "infoForeground": "fgDark",
             "selectionForeground": "fg",
             "selectionInactiveForeground": "fg",
             "selectionBackground": "hoverBackground",
@@ -226,7 +229,13 @@
             "Header": {
                 "activeBackground": "hoverBackground",
                 "inactiveBackground": "hoverBackground"
+            },
+            "Advertiser": {
+                "foreground": "dark5"
             }
+        },
+        "PopupMenu": {
+            "background": "hoverBackground"
         },
         "RadioButtonMenuItem": {
             "selectionBackground": "hoverBackground"
@@ -319,6 +328,7 @@
             "selectionBackground": "blue0",
             "selectionInactiveBackground": "selectionInactiveBackground"
         },
+        "ToolTip.shortcutForeground": "blue",
         "ValidationTooltip": {
             "errorBackground": "bgDark",
             "errorBorderColor": "red1",
