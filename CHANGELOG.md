@@ -2,6 +2,10 @@
 
 # TokyoNight Theme Changelog
 
+## [0.1.1] - 14.04.2022
+
+- Update to 2022.1
+
 ## [0.0.9] - 25.03.2022
 
 - Fixed breadcrumb colors

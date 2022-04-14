@@ -26,13 +26,13 @@
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="e0af68"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="e0af68"/>
         <option name="FILESTATUS_MERGED" value="73daca"/>
-        <option name="FILESTATUS_MODIFIED" value="ebcb8b"/>
+        <option name="FILESTATUS_MODIFIED" value="e0af68"/>
         <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="7aa2f7"/>
         <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="7aa2f7"/>
         <option name="FILESTATUS_UNKNOWN" value="f7768e"/>
         <option name="FILESTATUS_addedOutside" value="73daca"/>
         <option name="FILESTATUS_changelistConflict" value="e0af68"/>
-        <option name="FILESTATUS_modifiedOutside" value="ebcb8b"/>
+        <option name="FILESTATUS_modifiedOutside" value="e0af68"/>
         <option name="GUTTER_BACKGROUND" value="24283b"/>
         <option name="HTML_TAG_TREE_LEVEL0" value=""/>
         <option name="HTML_TAG_TREE_LEVEL1" value=""/>
@@ -46,7 +46,7 @@
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="c0caf5"/>
         <option name="LOOKUP_COLOR" value="292e42"/>
         <option name="METHOD_SEPARATORS_COLOR" value="c0caf5"/>
-        <option name="MODIFIED_LINES_COLOR" value="ebcb8b"/>
+        <option name="MODIFIED_LINES_COLOR" value="e0af68"/>
         <option name="NOTIFICATION_BACKGROUND" value="3b4261"/>
         <option name="QUESTION_HINT" value="414868"/>
         <option name="RECURSIVE_CALL_ATTRIBUTES" value=""/>
@@ -65,7 +65,7 @@
         <option name="VCS_ANNOTATIONS_COLOR_5" value="292e42"/>
         <option name="VISUAL_INDENT_GUIDE" value="3b4261"/>
         <option name="WHITESPACES" value="3b4261"/>
-        <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="ebcb8b"/>
+        <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="e0af68"/>
     </colors>
     <attributes>
         <option name="ANNOTATION_NAME_ATTRIBUTES">
@@ -111,7 +111,7 @@
         </option>
         <option name="BREAKPOINT_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="9aa5ce"/>
+                <option name="BACKGROUND" value="53532c"/>
             </value>
         </option>
         <option name="CLASS_NAME_ATTRIBUTES">
@@ -282,19 +282,13 @@
             </value>
         </option>
         <option name="DEBUGGER_INLINED_VALUES">
-            <value>
-                <option name="FOREGROUND" value="9aa5ce"/>
-            </value>
+            <value />
         </option>
         <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
-            <value>
-                <option name="FOREGROUND" value="9aa5ce"/>
-            </value>
+            <value />
         </option>
         <option name="DEBUGGER_INLINED_VALUES_MODIFIED">
-            <value>
-                <option name="FOREGROUND" value="9aa5ce"/>
-            </value>
+            <value />
         </option>
         <option name="DEFAULT_ATTRIBUTE">
             <value>
@@ -538,17 +532,17 @@
         </option>
         <option name="EVALUATED_EXPRESSION_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="9aa5ce"/>
+                <option name="BACKGROUND" value="2c4353" />
             </value>
         </option>
         <option name="EVALUATED_EXPRESSION_EXECUTION_LINE_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="9aa5ce"/>
+                <option name="BACKGROUND" value="2d3d34" />
             </value>
         </option>
         <option name="EXECUTIONPOINT_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="9aa5ce"/>
+                <option name="BACKGROUND" value="2c4353" />
             </value>
         </option>
         <option name="FOLDED_TEXT_ATTRIBUTES">
