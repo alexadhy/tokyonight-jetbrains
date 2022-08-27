@@ -16,8 +16,8 @@
         <option name="DIAGRAM_NOTE_BORDER" value="414868"/>
         <option name="DIAGRAM_REALIZATION_EDGE" value="73daca"/>
         <option name="DIFF_SEPARATORS_BACKGROUND" value="2c2e40"/>
-        <option name="DOCUMENTATION_COLOR" value="232433"/>
-        <option name="DOCUMENTATION_POPUP_COLOR" value="232433"/>
+<!--        <option name="DOCUMENTATION_COLOR" value="232433"/>-->
+<!--        <option name="DOCUMENTATION_POPUP_COLOR" value="232433"/>-->
         <option name="ERROR_HINT" value="414868"/>
         <option name="FILESTATUS_ADDED" value="73daca"/>
         <option name="FILESTATUS_DELETED" value="f7768e"/>

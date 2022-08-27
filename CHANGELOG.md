@@ -2,6 +2,10 @@
 
 # TokyoNight Theme Changelog
 
+## [0.1.3] - 27.08.2022
+
+- Completion color change for TokyoNight Dark
+
 ## [0.1.1] - 14.04.2022
 
 - Update to 2022.1

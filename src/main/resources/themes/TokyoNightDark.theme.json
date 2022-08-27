@@ -120,9 +120,9 @@
         },
         "CompletionPopup": {
             "foreground": "fgDark",
-            "selectionBackground": "hoverBackground",
+            "selectionBackground": "green1",
             "selectionInactiveBackground": "selectionInactiveBackground",
-            "matchForeground": "green1"
+            "matchForeground": "bgHi"
         },
         "Component": {
             "focusColor": "hoverBackground",
