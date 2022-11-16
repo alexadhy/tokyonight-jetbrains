@@ -16,8 +16,8 @@
         <option name="DIAGRAM_NOTE_BORDER" value="414868"/>
         <option name="DIAGRAM_REALIZATION_EDGE" value="73daca"/>
         <option name="DIFF_SEPARATORS_BACKGROUND" value="2c2e40"/>
-<!--        <option name="DOCUMENTATION_COLOR" value="232433"/>-->
-<!--        <option name="DOCUMENTATION_POPUP_COLOR" value="232433"/>-->
+        <!--        <option name="DOCUMENTATION_COLOR" value="232433"/>-->
+        <!--        <option name="DOCUMENTATION_POPUP_COLOR" value="232433"/>-->
         <option name="ERROR_HINT" value="414868"/>
         <option name="FILESTATUS_ADDED" value="73daca"/>
         <option name="FILESTATUS_DELETED" value="f7768e"/>
@@ -112,7 +112,7 @@
         </option>
         <option name="BREAKPOINT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="53532c"/>
+                <option name="BACKGROUND" value="34212a"/>
             </value>
         </option>
         <option name="CLASS_NAME_ATTRIBUTES">
@@ -283,13 +283,13 @@
             </value>
         </option>
         <option name="DEBUGGER_INLINED_VALUES">
-            <value />
+            <value/>
         </option>
         <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
-            <value />
+            <value/>
         </option>
         <option name="DEBUGGER_INLINED_VALUES_MODIFIED">
-            <value />
+            <value/>
         </option>
         <option name="DEFAULT_ATTRIBUTE">
             <value>
@@ -404,6 +404,21 @@
         <option name="DEFAULT_LABEL">
             <value>
                 <option name="FOREGROUND" value="7dcfff"/>
+            </value>
+        </option>
+        <option name="LINE_FULL_COVERAGE">
+            <value>
+                <option name="FOREGROUND" value="41a6b5" />
+            </value>
+        </option>
+        <option name="LINE_NONE_COVERAGE">
+            <value>
+                <option name="FOREGROUND" value="c53b53" />
+            </value>
+        </option>
+        <option name="LINE_PARTIAL_COVERAGE">
+            <value>
+                <option name="FOREGROUND" value="e0af68" />
             </value>
         </option>
         <option name="DEFAULT_LINE_COMMENT">
@@ -533,17 +548,17 @@
         </option>
         <option name="EVALUATED_EXPRESSION_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="2c4353" />
+                <option name="BACKGROUND" value="2c4353"/>
             </value>
         </option>
         <option name="EVALUATED_EXPRESSION_EXECUTION_LINE_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="2d3d34" />
+                <option name="BACKGROUND" value="2d3d34"/>
             </value>
         </option>
         <option name="EXECUTIONPOINT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="2c4353" />
+                <option name="BACKGROUND" value="2c4353"/>
             </value>
         </option>
         <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -770,21 +785,6 @@
             <value>
                 <option name="FOREGROUND" value="9d7cd8"/>
                 <option name="FONT_TYPE" value="3"/>
-            </value>
-        </option>
-        <option name="LINE_FULL_COVERAGE">
-            <value>
-                <option name="FOREGROUND" value="9aa5ce"/>
-            </value>
-        </option>
-        <option name="LINE_NONE_COVERAGE">
-            <value>
-                <option name="FOREGROUND" value="9aa5ce"/>
-            </value>
-        </option>
-        <option name="LINE_PARTIAL_COVERAGE">
-            <value>
-                <option name="FOREGROUND" value="9aa5ce"/>
             </value>
         </option>
         <option name="LIVE_TEMPLATE_ATTRIBUTES">

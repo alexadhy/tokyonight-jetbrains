@@ -2,6 +2,13 @@
 
 # TokyoNight Theme Changelog
 
+## [0.1.5] - 15.11.2022
+- Added line coverage colors
+
+## [0.1.4] - 13.11.2022
+- Fixed completion colors for Tokyonight Dark
+- Breakpoint background color for all variants.
+
 ## [0.1.3] - 27.08.2022
 
 - Completion color change for TokyoNight Dark

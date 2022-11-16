@@ -111,7 +111,7 @@
         </option>
         <option name="BREAKPOINT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="53532c"/>
+                <option name="BACKGROUND" value="34212a" />
             </value>
         </option>
         <option name="CLASS_NAME_ATTRIBUTES">
@@ -773,17 +773,17 @@
         </option>
         <option name="LINE_FULL_COVERAGE">
             <value>
-                <option name="FOREGROUND" value="9aa5ce"/>
+                <option name="FOREGROUND" value="41a6b5" />
             </value>
         </option>
         <option name="LINE_NONE_COVERAGE">
             <value>
-                <option name="FOREGROUND" value="9aa5ce"/>
+                <option name="FOREGROUND" value="c53b53" />
             </value>
         </option>
         <option name="LINE_PARTIAL_COVERAGE">
             <value>
-                <option name="FOREGROUND" value="9aa5ce"/>
+                <option name="FOREGROUND" value="e0af68" />
             </value>
         </option>
         <option name="LIVE_TEMPLATE_ATTRIBUTES">
