@@ -1,17 +1,22 @@
 <idea-plugin>
+
   <id>com.alex.tokyonight</id>
   <name>Tokyo Night Theme</name>
-  <vendor email="alexadhyatma@mailbox.org" url="https://github.com/alexadhy">Alexander Adhyatma</vendor>
+  <vendor email="joel@maispace.de" url="https://github.com/Inf166">Joel Maximilian Mai</vendor>
+
   <description>
     <![CDATA[
       Tokyo Night is a theme ported from wildly popular (https://github.com/enkia/tokyo-night-vscode-theme).
       Currently only Tokyo Night Storm is available, but that could change later.
     ]]>
   </description>
+
   <depends>com.intellij.modules.platform</depends>
+
   <extensions defaultExtensionNs="com.intellij">
     <themeProvider id="com.alex.tokyonight-storm" path="/themes/TokyoNightStorm.theme.json"/>
     <themeProvider id="com.alex.tokyonight-dark" path="/themes/TokyoNightDark.theme.json"/>
-<!--    <themeProvider id="com.alex.tokyonight-day" path="/themes/TokyoNightDay.theme.json"/>-->
+    <!--<themeProvider id="com.alex.tokyonight-day" path="/themes/TokyoNightDay.theme.json"/>-->
   </extensions>
+
 </idea-plugin>
