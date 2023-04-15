@@ -1,1 +1,1 @@
-rootProject.name = "TokyoNight Theme"
+rootProject.name = "theme-jetbrains-tokyonight"

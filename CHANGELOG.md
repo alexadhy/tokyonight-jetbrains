@@ -2,6 +2,10 @@
 
 # TokyoNight Theme Changelog
 
+## [Unreleased]
+
+### Added
+
 ## [0.1.5] - 15.11.2022
 - Added line coverage colors
 
