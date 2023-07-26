@@ -6,6 +6,9 @@
 
 ### Added
 
+## [0.1.6] - 26.07.2023
+- Update theme for version 2023.2
+
 ## [0.1.5] - 15.11.2022
 - Added line coverage colors
 
