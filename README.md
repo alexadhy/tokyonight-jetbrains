@@ -1,4 +1,5 @@
 # 🏙 Tokyo Night
+> I forked from the repository [tokyonight-jetbrains](https://github.com/alexadhy/tokyonight-jetbrains) and continued to maintain it.
 
 <!-- Plugin description -->
 

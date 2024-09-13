@@ -6,6 +6,9 @@
 
 ### Added
 
+## [0.1.6] 13-09.2024
+- Fixed for compatibility with IntelliJ IDEA 2024.2.1
+
 ## [0.1.5] - 15.11.2022
 - Added line coverage colors
 
