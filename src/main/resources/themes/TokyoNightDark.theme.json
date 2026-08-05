@@ -271,7 +271,9 @@
         },
         "StatusBar": {
             "borderColor": "bg",
-            "hoverBackground": "hoverBackground"
+            "hoverBackground": "hoverBackground",
+            "Memory": "blue0",
+            "MemoryForeground": "fgDark"
         },
         "TabbedPane": {
             "tabSelectionHeight": 1,
